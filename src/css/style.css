@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Cardo:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100&display=swap');
+
+#fonte_blockote_titulo {
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-weight: 300;
+
+}
+
+#fonte_titulo {
+  font-family: 'Cardo', serif;
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.fonte_sub {
+  font-family: 'Cardo', serif;
+  font-size: 20px;
+}
+
+
+
+.classicos {
+  text-align: center;
+
+}
+
+.classicos img {
+  height: 200px;
+  width: 200px;
+}
+
+@media screen and (max-width: 600px) {
+
+
+  .row {
+    display: inline-block;
+  }
+
+}
+
+#card1 img {
+  height: 17vw;
+  width: 100%;
+  border-start-start-radius: 30px;
+}
+
+#card1 {
+  border-radius: 30px;
+  text-align: center;
+}
+
+#card1 .card-body {
+  height: 200px;
+}
+
+.container-fluid {
+  overflow: hidden;
+}
+
+#autor_texto {
+  overflow: hidden;
+
+  text-overflow: ellipsis;
+  max-width: 600px;
+}
+
+
+  #Logo {
+    position: relative;
+    top:50%;
+    height:50px;
+  }
+
+  #Logo2 {
+    position: relative;
+    top:50%;
+    height:50px;
+  }
+
+  #menu2{
+    display: flex;
+    width: 100%;
+    height: 60px;
+    padding:0;
+    margin:0;
+  }
+
+  #tipo {
+    margin:0;
+    width: 100%;
+    padding: auto;
+    font-style: italic;
+  }
+
+  .nav-item a:hover{
+    color:#66a83a;
+   font-weight: 600;
+   
+  }
+  .nav-item a{
+    color: gray;
+    font-size: large;
+    font-family: 'Cinzel', serif;
+    font-family: 'Raleway', sans-serif;
+  }
+
+
+  .box-card {
+    margin-right: auto;
+    padding:0;
+    margin:0;
+    width: 60px;
+    height: 100%;
+  }
+
+  #btn-pesquisar {
+    display: flex;
+    margin-right: 0px;
+  }
+
+  @media screen and (max-width: 600px) {
+
+    .box-card {
+      position: absolute;
+      margin-right: auto;
+      width: 60px;
+      height: 100%;
+    }
+
+    #barra_pesquisa {
+      width: 60%;
+      margin: auto;
+    }
+
+    #menu {
+      display: inline;
+    }
+  }
+
+  
+  .material-symbols-outlined {
+      font-variation-settings:
+      'FILL' 0,
+      'wght' 100%,
+      'GRAD' 110,
+      'opsz' 48;
+  }
+
+  #categorias  {
+    text-align: center;
+    display: inline-flex;
+  }
+  
+  #categorias a {
+    text-decoration: none;
+  }
+
+  .baloes {
+    border-style:hidden;
+    font-size: 20px;
+    margin: 5px;
+    padding: 10px;
+  }
