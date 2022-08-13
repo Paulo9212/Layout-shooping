@@ -127,6 +127,7 @@
             font-weight: bolder;
         }
 	</style>
+        
 
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
@@ -137,141 +138,144 @@
 			<div class="carousel-item active" alt="0">
 				<div id="row" class="row justify-content-center">
                     
-					<div class="col-sx product-grid1" style=" width: 212px; height: 478px; margin-left: 10px;">
+                    <div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
                         <div class="ticket_new">
                             <span class="product-new-label">NOVO</span>
                         </div>
-                            <div class="product-image4" style="width: 0px;">
-                                <img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
-                            </div>
-                            <div class="product-content1">
-                                <h3 class="title1" style="font: size 1.2em;">
-                                    Camisa Masculina 
-                                </h3>
-                                <hr>
-                                <div class="price1" style="font-size:1.2vw;">
-                                    R$ 27,99 <br>
-                                </div>
-                                <div id="btn_destaque">
-                                    <a class="btn btn-outline-dark" href="">+ Carrinho</a>
-                                    <a class="btn btn-outline-success" href=" ">Comprar</a>
-                                </div>
-                            </div>
+						<div class="product-image4" style="width: 0px;">
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-godisable-jacob-914668.jpg'>		
+						</div>
+						<div class="product-content1">
+							<h3 class="title1" style="font: size 1.2vw;">
+								Item 1
+							</h3>
+							<hr>
+							<div class="price1" style="font-size:1.2vw;">
+								R$ 27,99 <br>
+							</div>
+							<div id="btn_destaque">
+								<a class="btn btn-outline-dark" href="">+ Carrinho</a>
+								<a class="btn btn-outline-success" href=" ">Comprar</a>
+							</div>
+						</div>
+					</div>
+
+					
+					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
+                        <div class="ticket_new">
+                            <span class="product-new-label">NOVO</span>
+                        </div>
+                        <div class="product-image4" style="width: 0px;">
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-godisable-jacob-794062.jpg'>		
+						</div>
+						<div class="product-content1">
+							<h3 class="title1" style="font: size 1.2em;">
+								Item 2
+							</h3>
+							<hr>
+							<div class="price1" style="font-size:1.2vw;">
+								R$ 27,99 <br>
+							</div>
+							<div id="btn_destaque">
+								<a class="btn btn-outline-dark" href="">+ Carrinho</a>
+								<a class="btn btn-outline-success" href=" ">Comprar</a>
+							</div>
+						</div>
+					</div>
+
+					
+					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
+                        <div class="ticket_new">
+                            <span class="product-new-label">NOVO</span>
+                        </div>
+                        <div class="product-image4" style="width: 0px;">
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-julia-kuzenkov-1176618.jpg'>		
+						</div>
+						<div class="product-content1">
+							<h3 class="title1" style="font: size 1.2em;">
+								Item 3
+							</h3>
+							<hr>
+							<div class="price1" style="font-size:1.2vw;">
+								R$ 27,99 <br>
+							</div>
+							<div id="btn_destaque">
+								<a class="btn btn-outline-dark" href="">+ Carrinho</a>
+								<a class="btn btn-outline-success" href=" ">Comprar</a>
+							</div>
+						</div>
 
 					</div>
 
-					<div class="col-sx product-grid1" style=" width: 212px; height: 478px; margin-left: 10px;">
+					
+					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
                         <div class="ticket_new">
                             <span class="product-new-label">NOVO</span>
                         </div>
-                            <div class="product-image4" style="width: 0px;">
-                                <img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
-                            </div>
-                            <div class="product-content1">
-                                <h3 class="title1" style="font: size 1.2em;">
-                                    Camisa Masculina 
-                                </h3>
-                                <hr>
-                                <div class="price1" style="font-size:1.2vw;">
-                                    R$ 27,99 <br>
-                                </div>
-                                <div id="btn_destaque">
-                                    <a class="btn btn-outline-dark" href="">+ Carrinho</a>
-                                    <a class="btn btn-outline-success" href=" ">Comprar</a>
-                                </div>
-                            </div>
+                        <div class="product-image4" style="width: 0px;">
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-maksim-goncharenok-4380970.jpg'>		
+						</div>
+						<div class="product-content1">
+							<h3 class="title1" style="font: size 1.2em;">
+								Item 4
+							</h3>
+							<hr>
+							<div class="price1" style="font-size:1.2vw;">
+								R$ 27,99 <br>
+							</div>
+							<div id="btn_destaque">
+								<a class="btn btn-outline-dark" href="">+ Carrinho</a>
+								<a class="btn btn-outline-success" href=" ">Comprar</a>
+							</div>
+						</div>
 
 					</div>
 
-					<div class="col-sx product-grid1" style=" width: 212px; height: 478px; margin-left: 10px;">
+					
+					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
                         <div class="ticket_new">
                             <span class="product-new-label">NOVO</span>
                         </div>
-                            <div class="product-image4" style="width: 0px;">
-                                <img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
-                            </div>
-                            <div class="product-content1">
-                                <h3 class="title1" style="font: size 1.2em;">
-                                    Camisa Masculina 
-                                </h3>
-                                <hr>
-                                <div class="price1" style="font-size:1.2vw;">
-                                    R$ 27,99 <br>
-                                </div>
-                                <div id="btn_destaque">
-                                    <a class="btn btn-outline-dark" href="">+ Carrinho</a>
-                                    <a class="btn btn-outline-success" href=" ">Comprar</a>
-                                </div>
-                            </div>
+                        <div class="product-image4" style="width: 0px;">
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-monstera-6311475.jpg'>		
+						</div>
+						<div class="product-content1">
+							<h3 class="title1" style="font: size 1.2em;">
+								Item 5
+							</h3>
+							<hr>
+							<div class="price1" style="font-size:1.2vw;">
+								R$ 27,99 <br>
+							</div>
+							<div id="btn_destaque">
+								<a class="btn btn-outline-dark" href="">+ Carrinho</a>
+								<a class="btn btn-outline-success" href=" ">Comprar</a>
+							</div>
+						</div>
 
 					</div>
 
-					<div class="col-sx product-grid1" style=" width: 212px; height: 478px; margin-left: 10px;">
+					
+					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
                         <div class="ticket_new">
                             <span class="product-new-label">NOVO</span>
                         </div>
-                            <div class="product-image4" style="width: 0px;">
-                                <img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
-                            </div>
-                            <div class="product-content1">
-                                <h3 class="title1" style="font: size 1.2em;">
-                                    Camisa Masculina 
-                                </h3>
-                                <hr>
-                                <div class="price1" style="font-size:1.2vw;">
-                                    R$ 27,99 <br>
-                                </div>
-                                <div id="btn_destaque">
-                                    <a class="btn btn-outline-dark" href="">+ Carrinho</a>
-                                    <a class="btn btn-outline-success" href=" ">Comprar</a>
-                                </div>
-                            </div>
-
-					</div>
-
-					<div class="col-sx product-grid1" style=" width: 212px; height: 478px; margin-left: 10px;">
-                        <div class="ticket_new">
-                            <span class="product-new-label">NOVO</span>
-                        </div>
-                            <div class="product-image4" style="width: 0px;">
-                                <img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
-                            </div>
-                            <div class="product-content1">
-                                <h3 class="title1" style="font: size 1.2em;">
-                                    Camisa Masculina 
-                                </h3>
-                                <hr>
-                                <div class="price1" style="font-size:1.2vw;">
-                                    R$ 27,99 <br>
-                                </div>
-                                <div id="btn_destaque">
-                                    <a class="btn btn-outline-dark" href="">+ Carrinho</a>
-                                    <a class="btn btn-outline-success" href=" ">Comprar</a>
-                                </div>
-                            </div>
-
-					</div>
-
-					<div class="col-sx product-grid1" style=" width: 212px; height: 478px; margin-left: 10px;">
-                        <div class="ticket_new">
-                            <span class="product-new-label">NOVO</span>
-                        </div>
-                            <div class="product-image4" style="width: 0px;">
-                                <img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
-                            </div>
-                            <div class="product-content1">
-                                <h3 class="title1" style="font: size 1.2em;">
-                                    Camisa Masculina 
-                                </h3>
-                                <hr>
-                                <div class="price1" style="font-size:1.2vw;">
-                                    R$ 27,99 <br>
-                                </div>
-                                <div id="btn_destaque">
-                                    <a class="btn btn-outline-dark" href="">+ Carrinho</a>
-                                    <a class="btn btn-outline-success" href=" ">Comprar</a>
-                                </div>
-                            </div>
+                        <div class="product-image4" style="width: 0px;">
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-nicolas-postiglioni-852860.jpg'>		
+						</div>
+						<div class="product-content1">
+							<h3 class="title1" style="font: size 1.2em;">
+								Item 6
+							</h3>
+							<hr>
+							<div class="price1" style="font-size:1.2vw;">
+								R$ 27,99 <br>
+							</div>
+							<div id="btn_destaque">
+								<a class="btn btn-outline-dark" href="">+ Carrinho</a>
+								<a class="btn btn-outline-success" href=" ">Comprar</a>
+							</div>
+						</div>
 
 					</div>
 
@@ -282,147 +286,151 @@
 			<div class="carousel-item" alt="1">
 
 				<div id="row" class="row justify-content-center">
-                <div class="col-sx product-grid1" style=" width: 212px; height: 478px; margin-left: 10px;">
+                    <div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
                         <div class="ticket_new">
                             <span class="product-new-label">NOVO</span>
                         </div>
-                            <div class="product-image4" style="width: 0px;">
-                                <img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
-                            </div>
-                            <div class="product-content1">
-                                <h3 class="title1" style="font: size 1.2em;">
-                                    Camisa Masculina 
-                                </h3>
-                                <hr>
-                                <div class="price1" style="font-size:1.2vw;">
-                                    R$ 27,99 <br>
-                                </div>
-                                <div id="btn_destaque">
-                                    <a class="btn btn-outline-dark" href="">+ Carrinho</a>
-                                    <a class="btn btn-outline-success" href=" ">Comprar</a>
-                                </div>
-                            </div>
+						<div class="product-image4" style="width: 0px;">
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-barathan-amuthan-2723623.jpg'>		
+						</div>
+						<div class="product-content1">
+							<h3 class="title1" style="font: size 1.2em;">
+								Item 7
+							</h3>
+							<hr>
+							<div class="price1" style="font-size:1.2vw;">
+								R$ 27,99 <br>
+							</div>
+							<div id="btn_destaque">
+								<a class="btn btn-outline-dark" href="">+ Carrinho</a>
+								<a class="btn btn-outline-success" href=" ">Comprar</a>
+							</div>
+						</div>
 
 					</div>
 
-					<div class="col-sx product-grid1" style=" width: 212px; height: 478px; margin-left: 10px;">
+					
+					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
                         <div class="ticket_new">
                             <span class="product-new-label">NOVO</span>
                         </div>
-                            <div class="product-image4" style="width: 0px;">
-                                <img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
-                            </div>
-                            <div class="product-content1">
-                                <h3 class="title1" style="font: size 1.2em;">
-                                    Camisa Masculina 
-                                </h3>
-                                <hr>
-                                <div class="price1" style="font-size:1.2vw;">
-                                    R$ 27,99 <br>
-                                </div>
-                                <div id="btn_destaque">
-                                    <a class="btn btn-outline-dark" href="">+ Carrinho</a>
-                                    <a class="btn btn-outline-success" href=" ">Comprar</a>
-                                </div>
-                            </div>
+                        <div class="product-image4" style="width: 0px;">
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-ron-lach-8387834.jpg'>		
+						</div>
+						<div class="product-content1">
+							<h3 class="title1" style="font: size 1.2em;">
+								Item 8
+							</h3>
+							<hr>
+							<div class="price1" style="font-size:1.2vw;">
+								R$ 27,99 <br>
+							</div>
+							<div id="btn_destaque">
+								<a class="btn btn-outline-dark" href="">+ Carrinho</a>
+								<a class="btn btn-outline-success" href=" ">Comprar</a>
+							</div>
+						</div>
 
 					</div>
 
-					<div class="col-sx product-grid1" style=" width: 212px; height: 478px; margin-left: 10px;">
+					
+					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
                         <div class="ticket_new">
                             <span class="product-new-label">NOVO</span>
                         </div>
-                            <div class="product-image4" style="width: 0px;">
-                                <img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
-                            </div>
-                            <div class="product-content1">
-                                <h3 class="title1" style="font: size 1.2em;">
-                                    Camisa Masculina 
-                                </h3>
-                                <hr>
-                                <div class="price1" style="font-size:1.2vw;">
-                                    R$ 27,99 <br>
-                                </div>
-                                <div id="btn_destaque">
-                                    <a class="btn btn-outline-dark" href="">+ Carrinho</a>
-                                    <a class="btn btn-outline-success" href=" ">Comprar</a>
-                                </div>
-                            </div>
+                        <div class="product-image4" style="width: 0px;">
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-maksim-goncharenok-4380970.jpg'>		
+						</div>
+						<div class="product-content1">
+							<h3 class="title1" style="font: size 1.2em;">
+								Item 9
+							</h3>
+							<hr>
+							<div class="price1" style="font-size:1.2vw;">
+								R$ 27,99 <br>
+							</div>
+							<div id="btn_destaque">
+								<a class="btn btn-outline-dark" href="">+ Carrinho</a>
+								<a class="btn btn-outline-success" href=" ">Comprar</a>
+							</div>
+						</div>
 
 					</div>
 
-					<div class="col-sx product-grid1" style=" width: 212px; height: 478px; margin-left: 10px;">
+					
+					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
                         <div class="ticket_new">
                             <span class="product-new-label">NOVO</span>
                         </div>
-                            <div class="product-image4" style="width: 0px;">
-                                <img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
-                            </div>
-                            <div class="product-content1">
-                                <h3 class="title1" style="font: size 1.2em;">
-                                    Camisa Masculina 
-                                </h3>
-                                <hr>
-                                <div class="price1" style="font-size:1.2vw;">
-                                    R$ 27,99 <br>
-                                </div>
-                                <div id="btn_destaque">
-                                    <a class="btn btn-outline-dark" href="">+ Carrinho</a>
-                                    <a class="btn btn-outline-success" href=" ">Comprar</a>
-                                </div>
-                            </div>
+                        <div class="product-image4" style="width: 0px;">
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-godisable-jacob-794062.jpg'>		
+						</div>
+						<div class="product-content1">
+							<h3 class="title1" style="font: size 1.2em;">
+								Item 10
+							</h3>
+							<hr>
+							<div class="price1" style="font-size:1.2vw;">
+								R$ 27,99 <br>
+							</div>
+							<div id="btn_destaque">
+								<a class="btn btn-outline-dark" href="">+ Carrinho</a>
+								<a class="btn btn-outline-success" href=" ">Comprar</a>
+							</div>
+						</div>
 
 					</div>
 
-					<div class="col-sx product-grid1" style=" width: 212px; height: 478px; margin-left: 10px;">
+					
+					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
                         <div class="ticket_new">
                             <span class="product-new-label">NOVO</span>
                         </div>
-                            <div class="product-image4" style="width: 0px;">
-                                <img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
-                            </div>
-                            <div class="product-content1">
-                                <h3 class="title1" style="font: size 1.2em;">
-                                    Camisa Masculina 
-                                </h3>
-                                <hr>
-                                <div class="price1" style="font-size:1.2vw;">
-                                    R$ 27,99 <br>
-                                </div>
-                                <div id="btn_destaque">
-                                    <a class="btn btn-outline-dark" href="">+ Carrinho</a>
-                                    <a class="btn btn-outline-success" href=" ">Comprar</a>
-                                </div>
-                            </div>
+                        <div class="product-image4" style="width: 0px;">
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-julia-kuzenkov-1176618.jpg'>		
+						</div>
+						<div class="product-content1">
+							<h3 class="title1" style="font: size 1.2em;">
+								Item 11
+							</h3>
+							<hr>
+							<div class="price1" style="font-size:1.2vw;">
+								R$ 27,99 <br>
+							</div>
+							<div id="btn_destaque">
+								<a class="btn btn-outline-dark" href="">+ Carrinho</a>
+								<a class="btn btn-outline-success" href=" ">Comprar</a>
+							</div>
+						</div>
 
 					</div>
 
-					<div class="col-sx product-grid1" style=" width: 212px; height: 478px; margin-left: 10px;">
+					
+					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
                         <div class="ticket_new">
                             <span class="product-new-label">NOVO</span>
                         </div>
-                            <div class="product-image4" style="width: 0px;">
-                                <img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
-                            </div>
-                            <div class="product-content1">
-                                <h3 class="title1" style="font: size 1.2em;">
-                                    Camisa Masculina 
-                                </h3>
-                                <hr>
-                                <div class="price1" style="font-size:1.2vw;">
-                                    R$ 27,99 <br>
-                                </div>
-                                <div id="btn_destaque">
-                                    <a class="btn btn-outline-dark" href="">+ Carrinho</a>
-                                    <a class="btn btn-outline-success" href=" ">Comprar</a>
-                                </div>
-                            </div>
+                        <div class="product-image4" style="width: 0px;">
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-mart-production-9558894.jpg'>		
+						</div>
+						<div class="product-content1">
+							<h3 class="title1" style="font: size 1.2em;">
+								Item 12
+							</h3>
+							<hr>
+							<div class="price1" style="font-size:1.2vw;">
+								R$ 27,99 <br>
+							</div>
+							<div id="btn_destaque">
+								<a class="btn btn-outline-dark" href="">+ Carrinho</a>
+								<a class="btn btn-outline-success" href=" ">Comprar</a>
+							</div>
+						</div>
 
 					</div>
+                        
 
-
-
-				</div>
+                </div>
 
 			</div>
 

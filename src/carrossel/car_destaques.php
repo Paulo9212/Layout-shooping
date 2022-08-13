@@ -57,16 +57,13 @@
 
 		}
 
-		.product-grid1 .product-image4 img {
-			width: 180px;
-			height: 240px;
-			padding: 10px;
+		#tipocard img {
 			-moz-transition: all 0.5s;
 			-webkit-transition: all 0.5s;
 			transition: all 0.5s;
 		}
 
-		.product-grid1 .product-image4 img:hover {
+		#tipocard img:hover {
 			-moz-transform: scale(1.2);
 			-webkit-transform: scale(1.2);
 			transform: scale(1.2);
@@ -127,11 +124,11 @@
 
 					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
 						<div class="product-image4" style="width: 0px;">
-							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-godisable-jacob-914668.jpg'>		
 						</div>
 						<div class="product-content1">
-							<h3 class="title1" style="font: size 1.2em;">
-								Camisa Masculina 
+							<h3 class="title1" style="font: size 1.2vw;">
+								Item 1
 							</h3>
 							<hr>
 							<div class="price1" style="font-size:1.2vw;">
@@ -148,11 +145,11 @@
 					
 					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
 						<div class="product-image4" style="width: 0px;">
-							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-godisable-jacob-794062.jpg'>		
 						</div>
 						<div class="product-content1">
 							<h3 class="title1" style="font: size 1.2em;">
-								Camisa Masculina 
+								Item 2
 							</h3>
 							<hr>
 							<div class="price1" style="font-size:1.2vw;">
@@ -169,11 +166,11 @@
 					
 					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
 						<div class="product-image4" style="width: 0px;">
-							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-julia-kuzenkov-1176618.jpg'>		
 						</div>
 						<div class="product-content1">
 							<h3 class="title1" style="font: size 1.2em;">
-								Camisa Masculina 
+								Item 3
 							</h3>
 							<hr>
 							<div class="price1" style="font-size:1.2vw;">
@@ -190,11 +187,11 @@
 					
 					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
 						<div class="product-image4" style="width: 0px;">
-							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-maksim-goncharenok-4380970.jpg'>		
 						</div>
 						<div class="product-content1">
 							<h3 class="title1" style="font: size 1.2em;">
-								Camisa Masculina 
+								Item 4
 							</h3>
 							<hr>
 							<div class="price1" style="font-size:1.2vw;">
@@ -211,11 +208,11 @@
 					
 					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
 						<div class="product-image4" style="width: 0px;">
-							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-monstera-6311475.jpg'>		
 						</div>
 						<div class="product-content1">
 							<h3 class="title1" style="font: size 1.2em;">
-								Camisa Masculina 
+								Item 5
 							</h3>
 							<hr>
 							<div class="price1" style="font-size:1.2vw;">
@@ -232,11 +229,11 @@
 					
 					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
 						<div class="product-image4" style="width: 0px;">
-							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-nicolas-postiglioni-852860.jpg'>		
 						</div>
 						<div class="product-content1">
 							<h3 class="title1" style="font: size 1.2em;">
-								Camisa Masculina 
+								Item 6
 							</h3>
 							<hr>
 							<div class="price1" style="font-size:1.2vw;">
@@ -259,13 +256,13 @@
 
 				<div id="row" class="row justify-content-center">
 					
-				<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
+					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
 						<div class="product-image4" style="width: 0px;">
-							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-barathan-amuthan-2723623.jpg'>		
 						</div>
 						<div class="product-content1">
 							<h3 class="title1" style="font: size 1.2em;">
-								Camisa Masculina 
+								Item 7
 							</h3>
 							<hr>
 							<div class="price1" style="font-size:1.2vw;">
@@ -282,11 +279,11 @@
 					
 					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
 						<div class="product-image4" style="width: 0px;">
-							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-ron-lach-8387834.jpg'>		
 						</div>
 						<div class="product-content1">
 							<h3 class="title1" style="font: size 1.2em;">
-								Camisa Masculina 
+								Item 8
 							</h3>
 							<hr>
 							<div class="price1" style="font-size:1.2vw;">
@@ -303,11 +300,11 @@
 					
 					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
 						<div class="product-image4" style="width: 0px;">
-							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-maksim-goncharenok-4380970.jpg'>		
 						</div>
 						<div class="product-content1">
 							<h3 class="title1" style="font: size 1.2em;">
-								Camisa Masculina 
+								Item 9
 							</h3>
 							<hr>
 							<div class="price1" style="font-size:1.2vw;">
@@ -324,11 +321,11 @@
 					
 					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
 						<div class="product-image4" style="width: 0px;">
-							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-godisable-jacob-794062.jpg'>		
 						</div>
 						<div class="product-content1">
 							<h3 class="title1" style="font: size 1.2em;">
-								Camisa Masculina 
+								Item 10
 							</h3>
 							<hr>
 							<div class="price1" style="font-size:1.2vw;">
@@ -345,11 +342,11 @@
 					
 					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
 						<div class="product-image4" style="width: 0px;">
-							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-julia-kuzenkov-1176618.jpg'>		
 						</div>
 						<div class="product-content1">
 							<h3 class="title1" style="font: size 1.2em;">
-								Camisa Masculina 
+								Item 11
 							</h3>
 							<hr>
 							<div class="price1" style="font-size:1.2vw;">
@@ -366,11 +363,11 @@
 					
 					<div class="col-sx product-grid1" style=" width: 212px; height: 448px; margin-left: 10px;">
 						<div class="product-image4" style="width: 0px;">
-							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/img-fundo.png'>		
+							<img class="pic-1 align-content-center ml-3" style="height: 240px;" src='/src/img/pexels-mart-production-9558894.jpg'>		
 						</div>
 						<div class="product-content1">
 							<h3 class="title1" style="font: size 1.2em;">
-								Camisa Masculina 
+								Item 12
 							</h3>
 							<hr>
 							<div class="price1" style="font-size:1.2vw;">

@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Cardo:ital@1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@100&display=swap');
 
+body{
+  /* overflow-x: hidden; */
+}
 #fonte_blockote_titulo {
   font-family: 'Montserrat Alternates', sans-serif;
   font-weight: 300;
@@ -161,4 +164,27 @@
     font-size: 20px;
     margin: 5px;
     padding: 10px;
+  }
+
+  .product-grid1 .product-image4 img {
+    width: 180px;
+    height: 240px;
+    padding: 10px;
+    -moz-transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+  }
+
+  .product-grid1 .product-image4 img:hover {
+    -moz-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+  }
+
+  footer{
+    background-color: black;
+    width: 100%;
+    color: white;
+    height:370px;
+    font-family: monospace;
   }
